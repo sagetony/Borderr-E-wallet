@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  },
+  "name": "borderr-e-wallet",
+  "version": "1.0.0",
+  "description": "An E-wallet System ",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "start-server": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagetony/Borderr-E-wallet.git"
+  },
+  "keywords": [
+    "Wallet",
+    "ExpressJs",
+    "JWT",
+    "NodeJs",
+    "Banking"
+  ],
+  "author": "Uchechukwu Anthony",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sagetony/Borderr-E-wallet/issues"
+  },
+  "homepage": "https://github.com/sagetony/Borderr-E-wallet#readme"
+}
